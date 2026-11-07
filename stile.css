@@ -1,0 +1,26 @@
+img{margin-right: 30px;
+	margin-left: 30px;}
+h1{font-size: 50px;}
+h2{font-size: 30px;}
+p{font-size: 20px;
+	margin-right: 10px;
+	margin-left: 10px}
+.imgsopra{	position: relative;
+	top: 10px;
+	left: 165px;}
+.imgsotto{position: relative;
+	top: 20px;
+	left: 425px;}
+.imgGTA{position: relative;
+	top: 480px;
+	right: 520px;}
+.homepage{color:white;text-align:center;font-family: "Verdana", sans-serif;}
+.residentevil{color:#f4f4f4;text-align:center;font-family: "Courier New", monospace;}
+.zelda{color:#fae6b6;text-align:center;font-family: "Verdana", sans-serif;}
+.starwars{color:#272624;text-align:center;font-family: "Verdana", sans-serif;}
+.forza{color:white;text-align:center;font-family: "Verdana", sans-serif;}
+.gta{color:#e0d9ff;text-align:center;font-family: "Verdana", sans-serif;}
+.pragmata{text-align:center;font-family: "Verdana", sans-serif;}
+.imgquadrate{width:450px;height:450px;}
+.imgrettangolari{width:800px;height:450px;}
+.imgZelda1998{width:600px;height:450px;}
