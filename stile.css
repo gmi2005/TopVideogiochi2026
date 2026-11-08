@@ -18,12 +18,19 @@ p{font-size: 20px;
 	top: 480px;
 	right: 520px;}
 .homepage{color:white;text-align:center;font-family: "Verdana", sans-serif;}
+.homepageBG{background-color:black; background-image: url(https://art.pixilart.com/704a2fd4e82ec4e.png); background-repeat: no-repeat; background-position: center; background-attachment: fixed;}
 .residentevil{color:#f4f4f4;text-align:center;font-family: "Courier New", monospace;}
+.residentevilBG{background-color:#35373a;}
 .zelda{color:#fae6b6;text-align:center;font-family: "Verdana", sans-serif;}
+.zeldaBG{background-color:#1d3913;}
 .starwars{color:#272624;text-align:center;font-family: "Verdana", sans-serif;}
+.starwarsBG{background-color:#ebe7e6;}
 .forza{color:white;text-align:center;font-family: "Verdana", sans-serif;}
+.forzaBG{background-color:#4ec2ad;}
 .gta{color:#e0d9ff;text-align:center;font-family: "Verdana", sans-serif;}
+.gtaBG{background-color:#242542;}
 .pragmata{text-align:center;font-family: "Verdana", sans-serif;}
+.pragmataBG{background-color:#cbd0d4;}
 .imgquadrate{width:450px;height:450px;}
 .imgrettangolari{width:800px;height:450px;}
 .imgZelda1998{width:600px;height:450px;}
